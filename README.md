@@ -30,11 +30,11 @@ HydroSense is a modern, responsive web application designed to monitor water qua
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gauri6720/Smart-Bottle.git
+   git clone https://github.com/MANSI1880/Smart-Water-Bottle.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Smart-Bottle
+   cd Smart-Water-Bottle
    ```
 3. Install dependencies:
    ```bash
